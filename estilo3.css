@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    padding: 20px;
+    color: #eaeef0;
+    background-color: #4b5779;
+    font-family: 'Junge', serif;
+}
+body{
+    background-color: #18191B;
+    font-family: 'Open Sans', sans-serif;
+    color: #c0c6c9;
+}
+footer{
+    padding: 20px;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+}
+.formulario{
+    margin-left: 550px;
+}

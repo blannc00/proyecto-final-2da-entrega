@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    padding: 20px;
+    color: #ffffff;
+    background-color: #4b5779;
+    font-family: 'Junge', serif;
+}
+footer{
+    padding: 20px;;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+}

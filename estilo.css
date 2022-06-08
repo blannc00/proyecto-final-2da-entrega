@@ -1,0 +1,239 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    padding: 20px;
+    color: #eaeef0;
+    background-color: #4b5779;
+    font-family: 'Junge', serif;
+}
+h2{
+    padding: 20px;
+    color: #eaeef0;
+    font-family: 'Junge', serif;
+}
+footer{
+    padding: 20px;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 5px;
+}
+.m1{
+    transition: all 1s ease;
+}
+.m1:hover{
+    height: 200;
+    transform: scale(1.1, 1.1);
+}
+.m2{
+    transition: all 1s ease;
+}
+.m2:hover{
+    height: 200;
+    transform: scale(1.1, 1.1);
+}
+.m3{
+    transition: all 1s ease;
+}
+.m3:hover{
+    height: 200;
+    transform: scale(1.1, 1.1);
+}
+.m4{
+    transition: all 1s ease;
+}
+.m4:hover{
+    height: 200;
+    transform: scale(1.1, 1.1);
+}
+.m5{
+    transition: all 1s ease;
+}
+.m5:hover{
+    height: 200;
+    transform: scale(1.1, 1.1);
+}
+.m6{
+    transition: all 1s ease;
+}
+.m6:hover{
+    height: 200;
+    transform: scale(1.1, 1.1);
+}
+.m7{
+    transition: all 1s ease;
+}
+.m7:hover{
+    height: 200;
+    transform: scale(1.1, 1.1);
+}
+.m8{
+    transition: all 1s ease;
+}
+.m8:hover{
+    height: 200;
+    transform: scale(1.1, 1.1);
+}
+.m9{
+    transition: all 1s ease;
+}
+.m9:hover{
+    height: 200;
+    transform: scale(1.1, 1.1);
+}
+.m10{
+    transition: all 1s ease;
+}
+.m10:hover{
+    height: 200;
+    transform: scale(1.1, 1.1);
+}
+.m11{
+    transition: all 1s ease;
+}
+.m11:hover{
+    height: 200;
+    transform: scale(1.1, 1.1);
+}
+.m12{
+    transition: all 1s ease;
+}
+.m12:hover{
+    height: 200;
+    transform: scale(1.1, 1.1);
+}
+.m13{
+    transition: all 1s ease;
+}
+.m13:hover{
+    height: 200;
+    transform: scale(1.1, 1.1);
+}
+.m14{
+    transition: all 1s ease;
+}
+.m14:hover{
+    height: 200;
+    transform: scale(1.1, 1.1);
+}
+.m15{
+    transition: all 1s ease;
+}
+.m15:hover{
+    height: 200;
+    transform: scale(1.1, 1.1);
+}
+.m16{
+    transition: all 1s ease;
+}
+.m16:hover{
+    height: 200;
+    transform: scale(1.1, 1.1);
+}
+.m17{
+    transition: all 1s ease;
+}
+.m17:hover{
+    height: 200;
+    transform: scale(1.1, 1.1);
+}
+.m18{
+    transition: all 1s ease;
+}
+.m18:hover{
+    height: 200;
+    transform: scale(1.1, 1.1);
+}
+.m19{
+    transition: all 1s ease;
+}
+.m19:hover{
+    height: 200;
+    transform: scale(1.1, 1.1);
+}
+.m20{
+    transition: all 1s ease;
+}
+.m20:hover{
+    height: 200;
+    transform: scale(1.1, 1.1);
+}
+.m21{
+    transition: all 1s ease;
+}
+.m21:hover{
+    height: 200;
+    transform: scale(1.1, 1.1);
+}
+.m22{
+    transition: all 1s ease;
+}
+.m22:hover{
+    height: 200;
+    transform: scale(1.1, 1.1);
+}
+.m23{
+    transition: all 1s ease;
+}
+.m23:hover{
+    height: 200;
+    transform: scale(1.1, 1.1);
+}
+.m24{
+    transition: all 1s ease;
+}
+.m24:hover{
+    height: 200;
+    transform: scale(1.1, 1.1);
+}
+.m25{
+    transition: all 1s ease;
+}
+.m25:hover{
+    height: 200;
+    transform: scale(1.1, 1.1);
+}
+.m26{
+    transition: all 1s ease;
+}
+.m26:hover{
+    height: 200;
+    transform: scale(1.1, 1.1);
+}
+.m27{
+    transition: all 1s ease;
+}
+.m27:hover{
+    height: 200;
+    transform: scale(1.1, 1.1);
+}
+.m28{
+    transition: all 1s ease;
+}
+.m28:hover{
+    height: 200;
+    transform: scale(1.1, 1.1);
+}
+.m29{
+    transition: all 1s ease;
+}
+.m29:hover{
+    height: 200;
+    transform: scale(1.1, 1.1);
+}
+.m30{
+    transition: all 1s ease;
+}
+.m30:hover{
+    height: 200;
+    transform: scale(1.1, 1.1);
+}
+.m31{
+    transition: all 1s ease;
+}
+.m31:hover{
+    height: 200;
+    transform: scale(1.1, 1.1);
+}
