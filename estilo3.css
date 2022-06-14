@@ -3,22 +3,19 @@
     padding: 0;
     box-sizing: border-box;
 }
-h1{
+.titulo{
     padding: 20px;
-    color: #eaeef0;
+    color: white;
     background-color: #4b5779;
     font-family: 'Junge', serif;
 }
-body{
-    background-color: #18191B;
-    font-family: 'Open Sans', sans-serif;
-    color: #c0c6c9;
-}
 footer{
     padding: 20px;
-    color: #000000;
+    color: black;
     font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
 }
 .formulario{
-    margin-left: 550px;
+    padding: 20px;
+    font-family: 'Open Sans', sans-serif;
 }
