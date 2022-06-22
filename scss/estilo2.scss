@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    .titulo{
+        padding: 20px;
+        color: white;
+        background-color: #4b5779;
+        font-family: 'Junge', serif;
+    }
+}
+main{
+    .grid-container{
+        display: grid;
+        grid-template-columns: auto;
+    }
+    .grid-container div{
+        padding: 30px;
+        background-color: #18191B;
+        color: white;
+        border-radius: 20px;
+        border: 1px solid white;
+        font-family: 'Open Sans', sans-serif;
+    }
+}
+footer{
+    padding: 20px;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+}
